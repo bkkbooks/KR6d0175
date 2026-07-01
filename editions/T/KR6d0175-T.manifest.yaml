@@ -1,0 +1,50 @@
+canonical_identifier: bkk:krp/KR6d0175/T/v1
+canonical_location: https://kanripo.org/bkk/KR6d0175/T/v1
+canonical_set:
+  identifier: bkk:charset/cjk-v1
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+metadata:
+  title: 金剛錍
+  identifiers:
+    krp: KR6d0175
+    cbeta: T46n1932
+    cbeta_old_id: T46n1932
+    authorityid: CA0001610
+    json_key: T1932
+  source:
+    repository: cbeta
+    path: /home/chris/src/xml-p5/T/T46/T46n1932.xml
+    old_id: T46n1932
+  edition:
+    short: T
+assets:
+  parts:
+  - {seq: 0, filename: KR6d0175_000-T.yaml, hash: 'sha256:97a8e5e943cfbbb421eb63a05a87307519592117c5813cf5a74fd852e44ab71b'}
+  - {seq: 1, filename: KR6d0175_001-T.yaml, hash: 'sha256:1592d9106ae886dc43a43d2840c120d11508f3c15fc227aaaf5e2a4289465833'}
+  markers:
+  - {seq: 0, role: markers, filename: assets/KR6d0175_000-T.markers.yaml, hash: 'sha256:8e58cd06ccb9aa69d7ac01384963f8c8570d4d919f0427f60c5a8e2655cc6c8d'}
+  - {seq: 1, role: markers, filename: assets/KR6d0175_001-T.markers.yaml, hash: 'sha256:6575164264e1d95614fa68f1ba3bddcef0b3edb938f72090676a0acc999e757e'}
+table_of_contents:
+- ref:
+    seq: 0
+    marker_id: KR6d0175_T_000-mulu-1
+    span:
+    - front
+    - 0
+    - 0
+  label: 科金剛錍序
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6d0175_T_001-juan-start
+    span:
+    - body
+    - 0
+    - 7484
+  label: '金剛錍圓伊金錍。以抉四眼無明之膜。令一切處悉見遮那佛性之指。偏權疑碎加之以剛。
+
+    假夢寄客立以賓主。觀者恕之'
+  type: juan
+  level: 1
+hash: sha256:686432575530bc38fffa3455d5107c7e800f5e669864a8bd4c216d681a479be2
