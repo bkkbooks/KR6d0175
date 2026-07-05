@@ -21,11 +21,11 @@ editions:
 - short: T
 assets:
   parts:
-  - {seq: 0, filename: KR6d0175_000.yaml, hash: 'sha256:6934074eeeac53d6529b0edb3bb8bd2be5ce2b273d974efdc8ada0e6df629a6a'}
-  - {seq: 1, filename: KR6d0175_001.yaml, hash: 'sha256:50cffde432889e983ed06a0d9c119c4372758deda477007feb132944d977bccc'}
+  - {seq: 0, filename: KR6d0175_000.yaml, hash: 'sha256:97a8e5e943cfbbb421eb63a05a87307519592117c5813cf5a74fd852e44ab71b'}
+  - {seq: 1, filename: KR6d0175_001.yaml, hash: 'sha256:1592d9106ae886dc43a43d2840c120d11508f3c15fc227aaaf5e2a4289465833'}
   markers:
-  - {seq: 0, role: markers, filename: assets/KR6d0175_000.markers.yaml, hash: 'sha256:fee622af5394fd39e6ca2d9ea9e4c2caa981246158950ce930d53053caae3a6f'}
-  - {seq: 1, role: markers, filename: assets/KR6d0175_001.markers.yaml, hash: 'sha256:d381267bf13db6b3230df8332840924bb8a80799a47a56a7f106915e699d873b'}
+  - {seq: 0, role: markers, filename: assets/KR6d0175_000.markers.yaml, hash: 'sha256:65745bc3f0a75b79a47ba7e1147d4a290e01f3fcd03827489d9e4c05233a0a8a'}
+  - {seq: 1, role: markers, filename: assets/KR6d0175_001.markers.yaml, hash: 'sha256:5982b5dc99ce3cf7138a1765f95bdf50f38b2374e5935ea87f74990c4866d968'}
 table_of_contents:
 - ref:
     seq: 0
@@ -49,7 +49,4 @@ table_of_contents:
     假夢寄客立以賓主。觀者恕之'
   type: juan
   level: 1
-hash: sha256:a8b760822d36cee34782d8733ebd31872d7450e0fdcce25bfa837e598e269fa9
-mappings:
-- canonical_identifier: bkk:mapping/variant-fold-v1
-  hash: sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e
+hash: sha256:654027bd83de7cd2a4135e002e7468359244d39cbe051b9931fe45e25003e976
