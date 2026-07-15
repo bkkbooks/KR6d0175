@@ -2,7 +2,7 @@ canonical_identifier: bkk:krp/KR6d0175/v1
 canonical_location: https://kanripo.org/bkk/KR6d0175/v1
 canonical_set:
   identifier: bkk:charset/cjk-v1
-  hash: sha256:7cf5854f9b7b99617990762b56ca5289dd34e1992baf324bb7716157d9a4b2ee
+  hash: sha256:37995e65f5e6cdc8cfbc980fea50ec86663e3e7de950809f7e37f003754b3227
 metadata:
   title: 金剛錍
   identifiers:
@@ -21,11 +21,11 @@ editions:
 - short: T
 assets:
   parts:
-  - {seq: 0, filename: KR6d0175_000.yaml, hash: 'sha256:97a8e5e943cfbbb421eb63a05a87307519592117c5813cf5a74fd852e44ab71b'}
-  - {seq: 1, filename: KR6d0175_001.yaml, hash: 'sha256:1592d9106ae886dc43a43d2840c120d11508f3c15fc227aaaf5e2a4289465833'}
+  - {seq: 0, filename: KR6d0175_000.yaml, hash: 'sha256:6934074eeeac53d6529b0edb3bb8bd2be5ce2b273d974efdc8ada0e6df629a6a'}
+  - {seq: 1, filename: KR6d0175_001.yaml, hash: 'sha256:b778ddc8e43d856389e01f16353ecd01cf7ab83b90d93983a6077a4f488681b7'}
   markers:
-  - {seq: 0, role: markers, filename: assets/KR6d0175_000.markers.yaml, hash: 'sha256:65745bc3f0a75b79a47ba7e1147d4a290e01f3fcd03827489d9e4c05233a0a8a'}
-  - {seq: 1, role: markers, filename: assets/KR6d0175_001.markers.yaml, hash: 'sha256:5982b5dc99ce3cf7138a1765f95bdf50f38b2374e5935ea87f74990c4866d968'}
+  - {seq: 0, role: markers, filename: assets/KR6d0175_000.markers.yaml, hash: 'sha256:32d311514de0c56356515083e2d338501c4bfd5a7ac2077040c8bdafb3d4bebf'}
+  - {seq: 1, role: markers, filename: assets/KR6d0175_001.markers.yaml, hash: 'sha256:87f8d52e5246765ae0a323f852944e9d65f6c1a830bde258bdcb1d65bccea1d3'}
 table_of_contents:
 - ref:
     seq: 0
@@ -49,4 +49,7 @@ table_of_contents:
     假夢寄客立以賓主。觀者恕之'
   type: juan
   level: 1
-hash: sha256:654027bd83de7cd2a4135e002e7468359244d39cbe051b9931fe45e25003e976
+hash: sha256:24b3e7ae0448767c219d173fbad915f14be5b5ce80a84a0c7616ff97a4f48748
+mappings:
+- canonical_identifier: bkk:mapping/variant-fold-v1
+  hash: sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20
