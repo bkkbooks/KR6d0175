@@ -21,17 +21,17 @@ editions:
 - short: T
 assets:
   parts:
-  - {seq: 0, filename: KR6d0175_000.yaml, hash: 'sha256:6934074eeeac53d6529b0edb3bb8bd2be5ce2b273d974efdc8ada0e6df629a6a'}
+  - {seq: 0, filename: KR6d0175_000.yaml, hash: 'sha256:dd2df8caa305acc4f781cef46d7333369fa3da72993be251b9187c3e47321741'}
   - {seq: 1, filename: KR6d0175_001.yaml, hash: 'sha256:b778ddc8e43d856389e01f16353ecd01cf7ab83b90d93983a6077a4f488681b7'}
   markers:
-  - {seq: 0, role: markers, filename: assets/KR6d0175_000.markers.yaml, hash: 'sha256:32d311514de0c56356515083e2d338501c4bfd5a7ac2077040c8bdafb3d4bebf'}
+  - {seq: 0, role: markers, filename: assets/KR6d0175_000.markers.yaml, hash: 'sha256:6e63a01c3d72d7b8d79d5ba370ae320f51024ba8e97f41c91c2875a79fcc2577'}
   - {seq: 1, role: markers, filename: assets/KR6d0175_001.markers.yaml, hash: 'sha256:87f8d52e5246765ae0a323f852944e9d65f6c1a830bde258bdcb1d65bccea1d3'}
 table_of_contents:
 - ref:
     seq: 0
     marker_id: KR6d0175_T_000-mulu-1
     span:
-    - front
+    - body
     - 0
     - 0
   label: 科金剛錍序
@@ -49,7 +49,7 @@ table_of_contents:
     假夢寄客立以賓主。觀者恕之'
   type: juan
   level: 1
-hash: sha256:24b3e7ae0448767c219d173fbad915f14be5b5ce80a84a0c7616ff97a4f48748
+hash: sha256:66fb865177594beda7be6d041855bf93b629e8db0da3b4844ccab2c225bf6bd8
 mappings:
 - canonical_identifier: bkk:mapping/variant-fold-v1
   hash: sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20
